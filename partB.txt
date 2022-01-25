@@ -1,0 +1,2 @@
+grep -wc "INFO" ~/cs429/projects/proj1/linux_bootcamp_handout/log.txt
+147
